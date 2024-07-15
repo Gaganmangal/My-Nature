@@ -20,7 +20,7 @@ li {
   justify-content: space-evenly;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(to right, #041308, #0b3317);
+  background: linear-gradient(to right, #041308, #4F7942	);
 }
 .left-text {
   flex-basis: 40%;
